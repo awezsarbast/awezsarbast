@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awezsarbast
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 📫 How to reach me awezhawezy@gmail.com
 
 <!---
 awezsarbast/awezsarbast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
